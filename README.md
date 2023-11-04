@@ -29,7 +29,7 @@ This is the menu layout of the application
 
 
 
-## TEnmo Server
+## TEnmo API 
 a RESTful api in which you can send web requests to fetch data as long as you are an authenticated user.
 
 How to use:
